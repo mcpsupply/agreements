@@ -4,9 +4,17 @@
 This Agreement is to outline the terms and conditions for the programme provided by MCP Supply (of MCP Group Inc., or "the Provider") and the party subject to enrollment in the programme (or "the Brand") in order to protect all parties involved, as defined below
 ### Definitions
 1. "This Agreement"
-   2. A copy of this agreement is hosted on https://github.com/mcpsupply/agreements/blob/main/sbrand.md.
+   1. A copy of this agreement is hosted on https://github.com/mcpsupply/agreements/blob/main/sbrand.md.
+2. Partnership Agreement
+   1. MCP Club Associate Partnership Agreement, as hosted on https://github.com/mcpclub/agreements/blob/main/cpartner.md.
 ### Partnership
-
+This agreement evokes the Partnership Agreement (MCP Club Associate Partnership Agreement) with:
+1. The Provider as the Company
+2. The Brand (or its representative) as the Partner
+If the Brand is not incorporated, this Agreement also declares the ownership of all assets as assigned below, for which all transfer of assets and purchases have been completed prior to this Agreement:
+1. The Provider possesses 50% of ownership
+2. The Brand (or its representative) possesses 50% of ownership
+If the Brand is incorporated, the ownership of all assets are naturally dictated by the holding of shares 
 
 ### Resources
 1. Sales Management
